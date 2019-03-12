@@ -1,2 +1,2 @@
 # Statistika-Keuangan
-Kode program pengantar keuangan
+Kode program pengantar statistika keuangan
